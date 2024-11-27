@@ -1,4 +1,4 @@
-package administracionEmpresa;
+package administracionEmpresa528;
 
 public class EmpleadoRegular528 {
     public Usuario528 usuario;

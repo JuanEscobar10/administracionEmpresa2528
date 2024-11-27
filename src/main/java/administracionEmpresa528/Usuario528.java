@@ -1,5 +1,4 @@
-package administracionEmpresa;
-import java.util.ArrayList;
+package administracionEmpresa528;
 import java.util.Scanner;
 public class Usuario528 {
 

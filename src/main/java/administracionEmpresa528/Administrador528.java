@@ -1,6 +1,4 @@
-package administracionEmpresa;
-
-import java.util.ArrayList;
+package administracionEmpresa528;
 
 public class Administrador528 {
     private Usuario528 usuario;
